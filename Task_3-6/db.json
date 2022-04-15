@@ -1,0 +1,42 @@
+{
+    "records": [
+        {
+            "user_id": 1,
+            "devices": [
+                {
+                    "device": "Windows 10",
+                    "action": {
+                        "start": 100,
+                        "stop": 370
+                    }
+                },
+                {
+                    "device": "iPhone 8s",
+                    "action": {
+                        "start": 380,
+                        "stop": 410
+                    }
+                }
+            ]
+        },
+        {
+            "user_id": 2,
+            "devices": [{
+                "device": "OSX 15.4",
+                "action": {
+                    "start": 200,
+                    "stop": 490
+                }
+            }]
+        },
+        {
+            "user_id": 3,
+            "devices":[ {
+                "device": "Android 9.1",
+                "action": {
+                    "start": 700
+                }
+            }]
+        }
+    ]
+}
